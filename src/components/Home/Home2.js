@@ -40,8 +40,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with with <b className="purple">microservice architecture, distributed systems, serverless</b>, scaling with cost reduction in mind, mentoring, and establishing engineering organizations with a culture aligned with corporate objectives are some of the fields that attract me.
+              I also working with <b className="purple">microservice architecture, distributed systems, serverless</b>, scaling with cost reduction in mind, mentoring, and establishing engineering organizations with a culture aligned with corporate objectives are some of the fields that attract me.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
