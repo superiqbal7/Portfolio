@@ -4,10 +4,9 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaDev } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -19,37 +18,30 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I am a software development engineer with several years of experience working with a variety of languages and technologies, especially in the web stack… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Node.js, </b>
+                React,
+                <b className="purple"> Javascript, </b>
+                Typescript, 
+                <b className="purple"> and Go. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I've been designing and building &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">backend services, cloud native solutions and web applications </b> and
+                also fiddling with{" "}
                 <b className="purple">
-                  Blockchain.
+                  Distributed systems, Cloud, DevOps and Kubernetes.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              with with <b className="purple">microservice architecture, distributed systems, serverless</b>, scaling with cost reduction in mind, mentoring, and establishing engineering organizations with a culture aligned with corporate objectives are some of the fields that attract me.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -76,18 +68,18 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
-                <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
+              <a
+                href="https://dev.to/superiqbal7"
+                target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
+              >
+                <FaDev />
+              </a>
+            </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/superiqbal7/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +89,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/superiqbal7"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
