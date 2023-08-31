@@ -10,11 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Md Rahim Iqbal </span>
             from <span className="purple"> Dhaka, Bangladesh.</span>
-            <br /> I am working as a Software Development Engineer - II at Craftsment Ltd..
-            <br />
-            Additionally, I am currently employed as a part time consultant at
-            Supertal Pte Ltd.
-            <br />
+            <br /> I am working as a Senior Developer at Supertal Pte Ltd.
             <br />
             Apart from coding, some other interest that I have!
           </p>
