@@ -9,17 +9,17 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Md Rahim Iqbal </span>
-            from <span className="purple"> Dhaka, Bangladesh.</span>
-            <br /> I am working as a Senior Developer at Supertal Pte Ltd.
+            from <span className="purple"> Wollongong, New South Wales, Australia.</span>
+            <br /> I am working as a Software Developer Engineer - II at Craftsmen Ltd.
             <br />
             Apart from coding, some other interest that I have!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Traveling
+              <ImPointRight /> Mountains
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading & Writing Tech Blogs
+              <ImPointRight /> Classic Musics
             </li>
             <li className="about-activity">
               <ImPointRight /> Football
