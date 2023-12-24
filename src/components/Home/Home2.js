@@ -18,9 +18,9 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am a software development engineer with several years of experience working with a variety of languages and technologies, especially in the web stack… 🤷‍♂️
+            I am a passionate software development engineer with 4 years of experience working with a variety of languages and technologies, especially in the web stack… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I'm focused on building performant and scalable solutions and fluent in classics like
               <i>
                 <b className="purple"> Node.js, </b>
                 React,
