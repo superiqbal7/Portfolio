@@ -44,8 +44,8 @@ function Projects() {
             <ProjectCard
               imgPath={bscdp}
               isBlog={false}
-              title="BSCDP"
-              description="BSCDP is the first customer data platform that enables pharmaceutical companies to market their products in a targeted and compliant way with a much better understanding of their stakeholders to provide personalized content and services at the right time of the customer journey."
+              title="Omnizia"
+              description="Worldwide first CDP specialized in Pharma and Life Science which empowers pharmaceutical companies with targeted,compliant marketing through personalized content and data-driven insights, enhancing customer journeys"
               demoLink="https://brainstation-51.com/bscdp/"              
             />
           </Col>
